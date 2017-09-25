@@ -1,0 +1,13 @@
+# Pixiv
+210.129.120.42  pixiv.net
+210.129.120.42  www.pixiv.net
+210.129.120.42  accounts.pixiv.net
+210.140.131.144 comic.pixiv.net
+210.129.120.42  dic.pixiv.net
+210.129.120.42  en-dic.pixiv.net
+210.129.120.42  factory.pixiv.net
+210.140.131.144 img-sketch.pixiv.net
+210.140.131.144 imgaz.pixiv.net
+210.129.120.42  sensei.pixiv.net
+210.140.170.179 sketch.pixiv.net
+210.140.131.144 source.pixiv.net

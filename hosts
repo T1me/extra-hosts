@@ -1,9 +1,6 @@
-
-# extra-hosts
-
 # Steam
-223.119.206.182 steamcommunity.com
-223.119.206.182 steampowered.com
+218.102.23.3    steamcommunity.com
+218.102.23.3    store.steampowered.com
 223.119.50.139  steamcommunity-a.akamaihd.net
 223.119.50.139  steamstore-a.akamaihd.net
 223.119.50.139  steamcdn-a.akamaihd.net
@@ -13,7 +10,7 @@
 # Sina Image
 125.90.206.144  sinaimg.cn
 # DOLLARS
-23.251.126.133  drrr.com
+128.1.170.18    drrr.com
 # Pixiv
 210.129.120.42  pixiv.net
 210.129.120.42  www.pixiv.net
