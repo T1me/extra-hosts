@@ -3,16 +3,20 @@
 23.42.165.137   steamcommunity.com
 223.119.50.139  steamstore-a.akamaihd.net
 223.119.50.139  steamcommunity-a.akamaihd.net
-184.28.218.82   steamuserimages-a.akamaihd.net
+223.119.50.139  steamuserimages-a.akamaihd.net
 223.119.50.139  steamcdn-a.akamaihd.net
 223.119.50.139  cdn.akamai.steamstatic.com
 223.119.50.139  cloud-3.steamusercontent.com
 223.119.50.139  store.akamai.steamstatic.com
 211.142.194.155 cdn.steamstatic.com.8686c.com
+
 # Sina Image
-125.90.206.144  sinaimg.cn
+183.232.24.222  wt.sinaimg.cn
+183.232.24.222  wxt.sinaimg.cn
+
 # DOLLARS
 128.1.170.18    drrr.com
+
 # Pixiv
 210.129.120.42  pixiv.net
 210.129.120.42  www.pixiv.net
@@ -26,3 +30,9 @@
 210.129.120.42  sensei.pixiv.net
 210.140.170.179 sketch.pixiv.net
 210.140.131.144 source.pixiv.net
+
+# Instagram
+23.2.16.33      ig-s-a-a.akamaihd.net
+23.2.16.50      ig-s-b-a.akamaihd.net
+23.2.16.106     ig-s-c-a.akamaihd.net
+23.2.16.65      ig-s-d-a.akamaihd.net
