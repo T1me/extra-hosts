@@ -1,14 +1,13 @@
 # Steam
-23.198.121.160  store.steampowered.com
-23.198.121.160  steamcommunity.com
-223.119.50.145  steamstore-a.akamaihd.net
-223.119.50.145  steamcommunity-a.akamaihd.net
-223.119.50.145  steamuserimages-a.akamaihd.net
-223.119.50.145  steamcdn-a.akamaihd.net
-223.119.50.145  cdn.akamai.steamstatic.com
-223.119.50.145  cloud-3.steamusercontent.com
-223.119.50.145  store.akamai.steamstatic.com
-111.47.221.234  cdn.steamstatic.com.8686c.com
+223.119.217.234 store.steampowered.com
+223.119.217.234 steamcommunity.com
+23.62.109.58    steamstore-a.akamaihd.net
+23.62.109.58    steamcommunity-a.akamaihd.net
+23.62.109.58    steamuserimages-a.akamaihd.net
+23.62.109.58    steamcdn-a.akamaihd.net
+23.62.109.58    cdn.akamai.steamstatic.com
+23.62.109.58    cloud-3.steamusercontent.com
+23.62.109.58    store.akamai.steamstatic.com
 
 # Sina Weibo Image
 183.232.24.222  tva1.sinaimg.cn
