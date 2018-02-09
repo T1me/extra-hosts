@@ -1,27 +1,28 @@
 # Steam
-223.119.217.234 store.steampowered.com
-223.119.217.234 steamcommunity.com
+223.119.157.184 store.steampowered.com
+223.119.157.184 steamcommunity.com
 23.62.109.58    steamstore-a.akamaihd.net
 23.62.109.58    steamcommunity-a.akamaihd.net
 23.62.109.58    steamuserimages-a.akamaihd.net
 23.62.109.58    steamcdn-a.akamaihd.net
-23.62.109.58    cdn.akamai.steamstatic.com
+23.57.66.51     cdn.akamai.steamstatic.com
 23.62.109.58    cloud-3.steamusercontent.com
 23.62.109.58    store.akamai.steamstatic.com
+223.111.188.179 cdn.steamstatic.com.8686c.com
 
 # Sina Weibo Image
-183.232.24.222  tva1.sinaimg.cn
-183.232.24.222  tva2.sinaimg.cn
-183.232.24.222  tva3.sinaimg.cn
-183.232.24.222  tva4.sinaimg.cn
-183.232.24.222  tvax1.sinaimg.cn
-183.232.24.222  tvax2.sinaimg.cn
-183.232.24.222  tvax3.sinaimg.cn
-183.232.24.222  tvax4.sinaimg.cn
-183.232.24.222  wx1.sinaimg.cn
-183.232.24.222  wx2.sinaimg.cn
-183.232.24.222  wx3.sinaimg.cn
-183.232.24.222  wx4.sinaimg.cn
+120.221.23.84   tva1.sinaimg.cn
+120.221.23.84   tva2.sinaimg.cn
+120.221.23.84   tva3.sinaimg.cn
+120.221.23.84   tva4.sinaimg.cn
+120.221.23.84   tvax1.sinaimg.cn
+120.221.23.84   tvax2.sinaimg.cn
+120.221.23.84   tvax3.sinaimg.cn
+120.221.23.84   tvax4.sinaimg.cn
+120.221.23.84   wx1.sinaimg.cn
+120.221.23.84   wx2.sinaimg.cn
+120.221.23.84   wx3.sinaimg.cn
+120.221.23.84   wx4.sinaimg.cn
 
 # DOLLARS
 128.1.170.109   drrr.com
@@ -42,25 +43,18 @@
 210.140.170.179 sketch.pixiv.net
 210.140.131.144 source.pixiv.net
 
-# Instagram
-54.89.9.176     www.instagram.com
-23.2.16.16      ig-s-a-a.akamaihd.net
-23.2.16.16      ig-s-b-a.akamaihd.net
-23.2.16.16      ig-s-c-a.akamaihd.net
-23.2.16.16      ig-s-d-a.akamaihd.net
-
 # Tencent Weibo Image
 119.147.196.33  t2.qpic.cn
 
 # Wikipedia
 208.80.154.224  www.wikipedia.org
-198.35.26.112   upload.wikimedia.org
+91.198.174.208  upload.wikimedia.org
 208.80.154.224  en.wikipedia.org
 208.80.154.224  eu.wikipedia.org
 208.80.154.224  zh.wikipedia.org
 208.80.154.224  zh.m.wikipedia.org
-91.198.174.192  zh.wikipedia.org
-91.198.174.192  zh.m.wikipedia.org
+#91.198.174.192  zh.wikipedia.org
+#91.198.174.192  zh.m.wikipedia.org
 198.35.26.96    wuu.wikipedia.org
-198.35.26.96	  zh-yue.wikipedia.org
+198.35.26.96	zh-yue.wikipedia.org
 198.35.26.96    login.wikimedia.org
